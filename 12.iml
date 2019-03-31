@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/lenovo/Desktop/jxl_libs/jxl.jar" />
+    <libelement value="file://C:/Users/lenovo/Desktop/jdom.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="jxl.jar">
+        <CLASSES>
+          <root url="file://C:/Users/lenovo/Desktop/jxl_libs/jxl.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom.jar">
+        <CLASSES>
+          <root url="file://C:/Users/lenovo/Desktop/jdom.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.jdom:jdom:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.jexcelapi:jxl:2.6.12" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.14" level="project" />
+  </component>
+</module>

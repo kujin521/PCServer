@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/main/java/Thread/Task.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/family/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/operator/Dir.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/operator/Down_duan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/operator/Downland.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/operator/Update.java" charset="GBK" />
+  </component>
+</project>
